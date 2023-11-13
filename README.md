@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @amnesiixp
-- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python
 - 📫 How to reach me: amnesiixpal@gmail.com
 
